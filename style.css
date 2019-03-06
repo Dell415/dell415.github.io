@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #888888;
+}
+
+header.hidden_gems {
+  background-position: center;
+  background-image: url("background.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+header.hidden_gems hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}
+
+header.hidden_gems h1 {
+  font-size: 2.8em; 
+  font-family: 'Indie Flower', cursive;
+  color: black
+}
+
+btn {
+
+}
